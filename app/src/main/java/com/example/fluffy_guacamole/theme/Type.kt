@@ -1,4 +1,4 @@
-package com.example.fluffy_guacamole.ui.theme
+package com.example.fluffy_guacamole.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
